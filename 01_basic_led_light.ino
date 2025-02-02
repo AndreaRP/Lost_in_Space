@@ -1,3 +1,6 @@
+#include "Arduino.h"
+
+
 # define cabin_light_pin 12
 
 void setup() {
